@@ -104,7 +104,7 @@ I love to collaborate! It helps if you do the following 👇🏾
 
 ## 🕺 Fun 'Me' Facts
 
-- I'm a single dad of 2 girls (6 and 4) and I'm obsessed with them 🫠
+- I'm a single dad of 2 girls (8 and 5) and I'm obsessed with them 🫠
 - I received a golden ticket on American Idol when I was in college (I'm way retired)
 - I used to be a dancer that traveled and learned from famous choreographers (I'm way retired)
 - I'm first-generation Haitian 🇭🇹
