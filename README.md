@@ -2,7 +2,7 @@
   <img src="./assets/boytwigg-banner.png" alt="BoyTwigg AI" width="100%">
 </p>
 
-# Hi, I’m Alex Malebranche 👋🏾
+# Hi, I’m Alex aka BoyTwigg 👋🏾
 
 I build practical AI, automation, and operations products for people doing real work. I start with the workflow: who owns it, where it breaks, what needs judgment, and what can run without someone chasing it every day.
 
