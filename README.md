@@ -51,7 +51,7 @@ The answers shape the build. They also keep a promising idea from becoming anoth
 
 ## Background
 
-I run [BoyTwigg AI](https://www.boytwigg.ai), where I design AI operations systems and support teams as a fractional operator. I was also the founding Chief of Staff and now Venture Partner and Head of AI Enablement Strategy at BAG Ventures, an enterprise-AI venture firm.
+I run [BoyTwigg AI](https://www.boytwigg.ai), where I design AI operations systems and support teams as a fractional operator. I am also a founding Chief of Staff and AI Automation Engineer at BAG Ventures, an enterprise-AI venture firm.
 
 Before that, I worked in technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. I am a first-generation Haitian American, U.S. Army Intelligence veteran, PMP, and Executive MBA candidate.
 
@@ -61,3 +61,47 @@ Before that, I worked in technology roles at AWS, GitHub, Cloudflare, Plume Desi
 - Permissioning, memory, and approval design in multi-agent products
 - Clear ways for nontechnical teams to govern AI-enabled workflows
 - Small public builds that show the decisions behind the system
+
+## AI builder toolbox
+
+These are tools I use to move from an idea to a working system. The mix changes with the job.
+
+**Build with AI**
+
+<p align="left">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img alt="Cursor" src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=white">
+  <img alt="Entire" src="https://img.shields.io/badge/Entire-6E56CF?style=for-the-badge">
+  <img alt="Hyperagent" src="https://img.shields.io/badge/Hyperagent-5B5BD6?style=for-the-badge">
+  <img alt="Runner" src="https://img.shields.io/badge/Runner-2563EB?style=for-the-badge">
+  <img alt="Keystroke" src="https://img.shields.io/badge/Keystroke-EC4899?style=for-the-badge">
+  <img alt="Hermes" src="https://img.shields.io/badge/Hermes-D97706?style=for-the-badge">
+  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
+  <img alt="Tasklet" src="https://img.shields.io/badge/Tasklet-FFCC18?style=for-the-badge&logoColor=111111">
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white">
+</p>
+
+**Automate and operate**
+
+<p align="left">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white">
+  <img alt="Make" src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white">
+  <img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white">
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white">
+  <img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
+</p>
+
+**Ship and integrate**
+
+<p align="left">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white">
+</p>
+
+## Connect
+
+**[Website](https://www.boytwigg.ai)** · **[LinkedIn](https://www.linkedin.com/in/boytwigg)** · **[GitHub](https://github.com/boytwigg)** · **[Email](mailto:me@boytwigg.ai)** · **[User manual](./USER-MANUAL.md)**
