@@ -16,7 +16,7 @@ My work sits across product, operations, and implementation. I have worked in en
   <a href="mailto:me@boytwigg.ai"><img alt="Email" src="https://img.shields.io/badge/EMAIL-C5221F?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-## What I work on
+## What I Work On
 
 - AI agent teams with clear roles, permissions, handoffs, and human approval points
 - Workflow and operations design for teams that have outgrown spreadsheets, inboxes, and memory
@@ -25,7 +25,7 @@ My work sits across product, operations, and implementation. I have worked in en
 
 I care about products people can use on a normal Tuesday. The work has to fit the team, make ownership clear, and hold up after the demo.
 
-## Selected work
+## Selected Work
 
 | Project | What it shows |
 | --- | --- |
@@ -33,13 +33,13 @@ I care about products people can use on a normal Tuesday. The work has to fit th
 | **[BoyTwigg AI](https://github.com/boytwigg/BoyTwigg-Consulting)** | Public examples of operations design, AI-agent work, workflow automation, data migration, and client delivery. |
 | **[Legal Operations Buildout](https://github.com/boytwigg/BoyTwigg-Consulting/tree/main/portfolio)** | A small-business engagement that migrated 900 records, documented 21 workflows, and created 30 reusable task templates. |
 
-## Repositories to pin
+## Repositories to Pin
 
 1. **vc-agent-architecture**. Best example of how I think about agent roles, controls, and rollout.
 2. **BoyTwigg AI**. Broadest view of the work, including client-facing artifacts and portfolio examples.
 3. **A focused implementation repo**. Pin the strongest current build that shows requirements, workflow logic, and a useful output. Keep it small enough that someone can inspect it in one sitting.
 
-## How I work
+## How I Work
 
 ```text
 Understand the user → trace the workflow → define the requirements → build the useful version → learn from use
@@ -55,14 +55,14 @@ I run [BoyTwigg AI](https://www.boytwigg.ai), where I design AI operations syste
 
 Before that, I worked in technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. I am a first-generation Haitian American, U.S. Army Intelligence veteran, PMP, and Executive MBA candidate.
 
-## Current interests
+## Current Interests
 
 - AI systems for high-stakes operational work
 - Permissioning, memory, and approval design in multi-agent products
 - Clear ways for nontechnical teams to govern AI-enabled workflows
 - Small public builds that show the decisions behind the system
 
-## AI builder toolbox
+## AI Builder Toolbox
 
 These are tools I use to move from an idea to a working system. The mix changes with the job.
 
@@ -82,7 +82,7 @@ These are tools I use to move from an idea to a working system. The mix changes 
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
-**Automate and operate**
+**Automate and Operate**
 
 <p align="left">
   <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
@@ -93,7 +93,7 @@ These are tools I use to move from an idea to a working system. The mix changes 
   <img alt="Linear" src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white">
 </p>
 
-**Ship and integrate**
+**Ship and Integrate**
 
 <p align="left">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -101,7 +101,3 @@ These are tools I use to move from an idea to a working system. The mix changes 
   <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white">
   <img alt="JSON" src="https://img.shields.io/badge/JSON-111111?style=for-the-badge&logo=json&logoColor=white">
 </p>
-
-## Connect
-
-**[Website](https://www.boytwigg.ai)** · **[LinkedIn](https://www.linkedin.com/in/boytwigg)** · **[GitHub](https://github.com/boytwigg)** · **[Email](mailto:me@boytwigg.ai)** · **[User manual](./USER-MANUAL.md)**
