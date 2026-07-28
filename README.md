@@ -51,7 +51,7 @@ The answers shape the build. They also keep a promising idea from becoming anoth
 
 ## Background
 
-I run [BoyTwigg AI](https://www.boytwigg.ai), where I design AI operations systems and support teams as a fractional operator. I am also a founding Chief of Staff and AI Automation Engineer at BAG Ventures, an enterprise-AI venture firm.
+I run [BoyTwigg AI](https://www.boytwigg.ai), where I design AI operations systems and support teams as a fractional operator. I was also the founding Chief of Staff and now Venture Partner and Head of AI Enablement Strategy at BAG Ventures, an enterprise-AI venture firm.
 
 Before that, I worked in technology roles at AWS, GitHub, Cloudflare, Plume Design, and Amazon. I am a first-generation Haitian American, U.S. Army Intelligence veteran, PMP, and Executive MBA candidate.
 
@@ -61,7 +61,3 @@ Before that, I worked in technology roles at AWS, GitHub, Cloudflare, Plume Desi
 - Permissioning, memory, and approval design in multi-agent products
 - Clear ways for nontechnical teams to govern AI-enabled workflows
 - Small public builds that show the decisions behind the system
-
-## Connect
-
-**[Website](https://www.boytwigg.ai)** · **[LinkedIn](https://www.linkedin.com/in/boytwigg)** · **[GitHub](https://github.com/boytwigg)** · **[Email](mailto:me@boytwigg.ai)** · **[User manual](./USER-MANUAL.md)**
